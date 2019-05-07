@@ -1,13 +1,14 @@
 # Fabrication of paper-based microfluidic devices for animal disease detection 
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2669596.svg)](https://doi.org/10.5281/zenodo.2669596)
 
 by Nithiya Streethran (nmstreethran@gmail.com)
 
-This was my undergraduate honours project at Heriot-Watt University, submitted April 2016. 
+This was my undergraduate honours project at Heriot-Watt University. This repository contains [computer-aided design (CAD) files and engineering drawings](/CAD_files/) of four different design concepts of paper-based microfluidic devices, in addition to the [final report](/final_report.pdf) and [image files](/Images/). 
 
-This repository contains the [final report](/final_report.pdf), [image files](/Images/), [computer-aided design (CAD) files and engineering drawings of the concepts](/CAD_files/). CAD files and drawings were produced using [PTC CREO Parametric 3.0](https://www.ptc.com/en/products/cad/creo/parametric) and [CorelDRAW](https://www.coreldraw.com/en/).
+These CAD files (.prt and .asm) are three-dimensional representations of the concepts, while the drawings (.drw and .cdr) are two-dimensional representations, which can be used by laser cutters to cut materials, such as paper, into the desired shape. The CAD files and drawings were produced using [PTC CREO Parametric 3.0](https://www.ptc.com/en/products/cad/creo/parametric) and [CorelDRAW](https://www.coreldraw.com/en/), which are proprietary. However, these files can be opened using free and open-source alternatives, such as [FreeCAD](https://www.freecadweb.org/) and [LibreOffice Draw](https://www.libreoffice.org/discover/draw/). See this article on [3 open source alternatives to AutoCAD](https://opensource.com/alternatives/autocad) for more information.
 
-Please refer to the [contributing guidelines](/CONTRIBUTING.md) and [code of conduct](/CODE_OF_CONDUCT.md) if you would like to contribute.
+This project was completed and submitted in April 2016, and I am no longer working on engineering design or biomedical applications. I have now released these files under open-source licenses, so that anyone interested can make use of them. Please refer to the [contributing guidelines](/CONTRIBUTING.md) and [code of conduct](/CODE_OF_CONDUCT.md) if you would like to contribute, or contact me (nmstreethran@gmail.com) if you have any questions.
 
 ## Abstract
 
