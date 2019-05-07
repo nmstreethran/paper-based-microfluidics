@@ -1,6 +1,6 @@
 # Fabrication of paper-based microfluidic devices for animal disease detection 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2669596.svg)](https://doi.org/10.5281/zenodo.2669596)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2671872.svg)](https://doi.org/10.5281/zenodo.2671872)
 
 by Nithiya Streethran (nmstreethran@gmail.com)
 
