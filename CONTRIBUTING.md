@@ -2,16 +2,15 @@
 
 Thank you for stopping by and considering contributing to this repository!
 
-**New to Git and GitHub?** See [these learning resources](https://help.github.com/articles/git-and-github-learning-resources/) and this [10 min. Git tutorial](https://try.github.io/levels/1/challenges/1).
+**New to Git and GitHub?** See [these learning resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) and this [10 min. Git tutorial](https://try.github.io/levels/1/challenges/1/).
 
 ## Contact me
 
-Please email me: nmstreethran@gmail.com (Nithiya Streethran)
+Please email me: nmstreethran at gmail dot com (Nithiya Streethran)
 
 ## Reporting issues
 
-- **Search for existing issues.** Please check to see if someone else has reported the same [issue](https://github.com/nmstreethran/UiS-PhD-thesis/issues).
-
+- **Search for existing issues.** Please check to see if someone else has reported the same [issue](https://github.com/nmstreethran/paper-based-microfluidics/issues).
 - **Share as much information as possible.** Include operating system and version, browser and version. Also, include steps to reproduce the bug.
 
 ## Pull requests
@@ -24,13 +23,15 @@ Please refer to each project's style guidelines and guidelines for submitting pa
 - Clone the project to your own machine
 - Commit changes to your own branch
 - Push your work back up to your fork
-- Submit a Pull request so that we can review your changes
+- Submit a pull request (PR) so that we can review your changes
 
-- Try not to pollute your pull request with unintended changes and keep them simple and small. If possible, squash your commits.
-- Try to share how your code has been tested before submitting a pull request.
-- If your PR resolves an issue, include **closes #ISSUE_NUMBER** in your commit message (or a [synonym](https://help.github.com/articles/closing-issues-via-commit-messages)).
+Tips:
+
+- Try not to pollute your PR with unintended changes and keep them simple and small. If possible, squash your commits.
+- Try to share how your code has been tested before submitting a PR.
+- If your PR resolves an issue, include **closes #ISSUE_NUMBER** in your commit message (or a [synonym](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)).
 - Review
-    - If your PR is ready for review, another contributor will be assigned to review your PR.
-    - The reviewer will accept or comment on the PR.
-    - If needed address the comments left by the reviewer. Once you're ready to continue the review, ping the reviewer in a comment.
-    - Once accepted your code will be merged to `master`.
+  - If your PR is ready for review, another contributor will be assigned to review your PR.
+  - The reviewer will accept or comment on the PR.
+  - If needed address the comments left by the reviewer. Once you're ready to continue the review, ping the reviewer in a comment.
+  - Once accepted your code will be merged to `master`.
