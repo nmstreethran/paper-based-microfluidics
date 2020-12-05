@@ -4,18 +4,15 @@ Thank you for stopping by and considering contributing to this repository!
 
 **New to Git and GitHub?** See [these learning resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) and this [10 min. Git tutorial](https://try.github.io/levels/1/challenges/1/).
 
-## Contact me
-
-Please email me: nmstreethran at gmail dot com (Nithiya Streethran)
-
 ## Reporting issues
 
 - **Search for existing issues.** Please check to see if someone else has reported the same [issue](https://github.com/nmstreethran/paper-based-microfluidics/issues).
-- **Share as much information as possible.** Include operating system and version, browser and version. Also, include steps to reproduce the bug.
+- **Share as much information as possible.** Include operating system and version, and what software you're using to open the CAD files and engineering drawings. Also, include steps to reproduce the bug.
+- **If you have any ideas or requests**, feel free to submit a new issue.
 
-## Pull requests
+## Workflow
 
-Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
+In general, we follow the "fork-and-pull" Git workflow.
 
 **NOTE: Be sure to merge the latest from "upstream" before making a pull request!**
 
@@ -28,10 +25,14 @@ Please refer to each project's style guidelines and guidelines for submitting pa
 Tips:
 
 - Try not to pollute your PR with unintended changes and keep them simple and small. If possible, squash your commits.
-- Try to share how your code has been tested before submitting a PR.
+- Try to share how your changes have been tested before submitting a PR.
 - If your PR resolves an issue, include **closes #ISSUE_NUMBER** in your commit message (or a [synonym](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)).
 - Review
   - If your PR is ready for review, another contributor will be assigned to review your PR.
   - The reviewer will accept or comment on the PR.
-  - If needed address the comments left by the reviewer. Once you're ready to continue the review, ping the reviewer in a comment.
-  - Once accepted your code will be merged to `master`.
+  - If needed, address the comments left by the reviewer. Once you're ready to continue the review, ping the reviewer in a comment.
+  - Once accepted, your code will be merged into the main branch.
+
+## Contact details
+
+Repository maintainer: Nithiya Streethran (nmstreethran at gmail dot com)
