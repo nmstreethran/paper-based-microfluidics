@@ -7,7 +7,7 @@ Thank you for stopping by and considering contributing to this repository!
 ## Reporting issues
 
 - **Search for existing issues.** Please check to see if someone else has reported the same [issue](https://github.com/nmstreethran/paper-based-microfluidics/issues).
-- **Share as much information as possible.** Include operating system and version, and what software you're using to open the CAD files and engineering drawings. Also, include steps to reproduce the bug.
+- **Share as much information as possible.** Include operating system and version, and what software and version you're using to open the CAD files and engineering drawings. Also, include steps to reproduce the bug.
 - **If you have any ideas or requests**, feel free to submit a new issue.
 
 ## Workflow
