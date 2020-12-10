@@ -23,4 +23,4 @@ This project was completed and submitted in April 2016, and I am no longer worki
 Unless otherwise stated:
 
 - Engineering drawings and CAD files: [MIT License](https://opensource.org/licenses/MIT)
-- Content, images, and documentation: [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)
+- Content, images, and documentation: [Creative Commons Attribution 4.0 International (CC-BY-4.0) License](https://creativecommons.org/licenses/by/4.0/)
