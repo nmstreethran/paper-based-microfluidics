@@ -19,7 +19,7 @@ The main features of paper-based microfluidic devices are hydrophilic channels s
 
 This project was completed and submitted in April 2016, and I am no longer working on engineering design or biomedical applications. I have now released these files under open-source licenses, so that anyone interested can make use of them. Please refer to the [contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md) if you would like to contribute. Contact me (nmstreethran at gmail dot com) if you have any questions.
 
-## Licenses
+## License
 
 Unless otherwise stated:
 
